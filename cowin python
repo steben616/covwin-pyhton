@@ -14,11 +14,11 @@ tot=3
 vacc="COVISHIELD"
 
 # Pincodes list 
-pincodes=['560056','560059','560060', '560074', '560098']
+pincodes=['673586','670102','673573', '673574', '670101']
 
-FromEmail=""    # From Email ID inside double quote
-FromEmailPass=""         # From Email ID password inside double quote
-ToEmail=""  # To Email ID inside double quote
+FromEmail="stebenbabu@gmail.com"    # From Email ID inside double quote
+FromEmailPass="......."         # From Email ID password inside double quote
+ToEmail="steben.babu@btech.christuniversity.in"  # To Email ID inside double quote
 
 
 message = """From: {FromEmail}
